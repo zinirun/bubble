@@ -1,0 +1,830 @@
+(['C:\\Users\\Jeon JIn Heo\\PycharmProjects\\bubble\\main.py'],
+ ['C:\\Users\\Jeon JIn Heo\\PycharmProjects\\bubble',
+  'C:\\Users\\Jeon JIn Heo\\PycharmProjects\\bubble'],
+ ['codecs'],
+ [],
+ [],
+ [],
+ False,
+ False,
+ '3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit '
+ '(Intel)]',
+ [('pyi_rth_pyqt5',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Jeon JIn Heo\\PycharmProjects\\bubble\\main.py',
+   'PYSOURCE')],
+ [('ntpath',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\os.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('image', '-', 'PYMODULE')],
+ [('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platformthemes\\qflatpak.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qflatpak.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('_ssl',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtGui',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtCore',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5.sip',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\sip.pyd',
+   'EXTENSION'),
+  ('sip',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\sip.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtWidgets',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\vcruntime140.dll',
+   'BINARY'),
+  ('Qt5Gui.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5gui.dll',
+   'BINARY'),
+  ('Qt5Core.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5core.dll',
+   'BINARY'),
+  ('Qt5WebSockets.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5websockets.dll',
+   'BINARY'),
+  ('Qt5Network.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5network.dll',
+   'BINARY'),
+  ('Qt5Quick.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5quick.dll',
+   'BINARY'),
+  ('Qt5Widgets.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5widgets.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5svg.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5dbus.dll',
+   'BINARY'),
+  ('python37.dll',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\python37.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\AppData\\Local\\Programs\\Python\\Python37-32\\python3.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('Qt5Qml.dll',
+   'c:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Jeon JIn '
+   'Heo\\PycharmProjects\\bubble\\build\\main\\base_library.zip',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_lv.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_sk.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_it.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_de.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ar.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_cs.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_hu.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_gd.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_es.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_da.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_pl.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_he.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_en.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_fr.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_bg.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ca.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_uk.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ru.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ja.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ko.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_fi.qm',
+   'C:\\users\\jeon jin '
+   'heo\\pycharmprojects\\bubble\\venv\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'DATA')],
+ [])
